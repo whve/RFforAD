@@ -2,7 +2,7 @@
 description: Download the relevant SNP information for calculation from here.
 ---
 
-# Download
+# Download Data
 
 You can download here:
 

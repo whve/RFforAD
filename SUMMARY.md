@@ -8,5 +8,5 @@
 * [Calculation results of four methods](calculation-results-of-four-methods.md)
 * [Related references](related-references.md)
 * [Acknowledgments](zhi-xie.md)
-* [Download](download.md)
+* [Download Data](download.md)
 
