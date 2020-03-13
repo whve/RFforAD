@@ -1,4 +1,4 @@
-# 风险因素测量值
+# b with IVW method
 
 
 
