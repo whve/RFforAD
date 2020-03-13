@@ -1,5 +1,5 @@
 ---
-description: p-values less than 0.05
+description: Calculation results of IVW methods (p-values less than 0.05)
 ---
 
 # Top Results
