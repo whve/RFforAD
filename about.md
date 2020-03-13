@@ -4,9 +4,9 @@ description: Version 1.00
 
 # Summary
 
-Effect of AD on 298 traits in MR-Base.
+Effect of 298 traits on AD in the database.
 
-The x-axis shows the standard deviation \(SD\) change or log odds ratio \(OR\) for each of 150 traits per SD decrease in AD. The y-axis shows the p-value for the association on a -log10 scale. The effects on the x-axis correspond to the slope from fixed effects inverse variance weighted \(IVW\) linear regression of single nucleotide polymorphism \(SNP\)-outcome effects regressed on the SNP-LDL effects. When the p-value is  1.30.
+The x-axis shows the standard deviation \(SD\) change or log odds ratio \(OR\) for AD per SD decrease in each of 298 traits. The y-axis shows the p-value for the association on a -log10 scale. The effects on the x-axis correspond to the slope from fixed effects inverse variance weighted \(IVW\) linear regression of XXX effects regressed on the SNP-exposure effects. When -log10 \(pval\)&gt; 1.30, the p-value is &lt;0.05.
 
 ![](.gitbook/assets/tu-pian.png)
 
