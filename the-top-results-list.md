@@ -1,5 +1,5 @@
 ---
-description: p-values less than .05
+description: p-values less than 0.05
 ---
 
 # Top Results
