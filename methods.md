@@ -12,5 +12,9 @@
 
 **b**: beta, used to calculate the odds ratio value.
 
+**outcome:** Alzheimer's disease \|\| id:297.
+
+**IVW:** Inverse variance weighted.
+
 \*\*\*\*
 
