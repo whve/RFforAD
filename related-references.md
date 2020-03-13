@@ -2,9 +2,6 @@
 
 
 
-  
-
-
 | exposure | category | consortium | id | pmid | population | priority | sample\_size | subcategory | year |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Adiponectin \|\| id:1 | Risk factor | ADIPOGen | 1 | 22479202 | Mixed | 1 | 39883 | Protein | 2012 |
