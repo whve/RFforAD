@@ -1,2 +1,125 @@
-# The "Top Results" list
+---
+description: p-values less than .05
+---
+
+# Top Results
+
+
+
+  
+&lt;!--.font0  
+	{color:\#305496;  
+	font-size:11.0pt;  
+	font-family:宋体;  
+	font-weight:400;  
+	font-style:normal;  
+	text-decoration:none;}  
+.font1  
+	{color:\#305496;  
+	font-size:11.0pt;  
+	font-family:宋体;  
+	font-weight:700;  
+	font-style:normal;  
+	text-decoration:none;}  
+.font2  
+	{color:\#000000;  
+	font-size:11.0pt;  
+	font-family:宋体;  
+	font-weight:400;  
+	font-style:normal;  
+	text-decoration:none;}  
+br  
+	{mso-data-placement:same-cell;}  
+td  
+	{padding-top:1px;  
+	padding-left:1px;  
+	padding-right:1px;  
+	mso-ignore:padding;  
+	color:\#000000;  
+	font-size:11.0pt;  
+	font-weight:400;  
+	font-style:normal;  
+	text-decoration:none;  
+	font-family:宋体;  
+	mso-generic-font-family:auto;  
+	mso-font-charset:134;  
+	mso-number-format:General;  
+	border:none;  
+	mso-background-source:auto;  
+	mso-pattern:auto;  
+	text-align:general;  
+	vertical-align:middle;  
+	white-space:nowrap;  
+	mso-rotate:0;  
+	mso-protection:locked visible;}  
+.et2  
+	{color:\#305496;  
+	font-weight:700;  
+	mso-generic-font-family:auto;  
+	mso-font-charset:134;  
+	border-top:.5pt solid \#4472C4;  
+	border-right:none;  
+	border-bottom:.5pt solid \#4472C4;  
+	border-left:none;}  
+.et3  
+	{color:\#305496;  
+	font-weight:700;  
+	mso-generic-font-family:auto;  
+	mso-font-charset:134;  
+	border-top:.5pt solid \#4472C4;  
+	border-right:none;  
+	border-bottom:.5pt solid \#4472C4;  
+	border-left:none;  
+	background:\#FFFF00;  
+	mso-pattern:auto none;}  
+.et4  
+	{color:\#305496;  
+	mso-generic-font-family:auto;  
+	mso-font-charset:134;  
+	background:\#D9E1F2;  
+	mso-pattern:\#D9E1F2 none;}  
+.et5  
+	{color:\#305496;  
+	mso-generic-font-family:auto;  
+	mso-font-charset:134;  
+	background:\#FFFF00;  
+	mso-pattern:auto none;}  
+.et6  
+	{color:\#305496;  
+	mso-generic-font-family:auto;  
+	mso-font-charset:134;}  
+.et7  
+	{color:\#305496;  
+	mso-generic-font-family:auto;  
+	mso-font-charset:134;  
+	mso-number-format:"0\.00E+00";  
+	background:\#FFFF00;  
+	mso-pattern:auto none;}  
+--&gt;  
+
+
+| exposure | nsnp | b | se | pval |
+| :--- | :--- | :--- | :--- | :--- |
+| Years of schooling \|\| id:1001 | 64 | -0.529487966 | 0.139348812 | 0.000144853 |
+| C-reactive protein \|\| id:1015 | 3 | 0.244753443 | 0.107812241 | 0.023196524 |
+| Hippocampus volume \|\| id:1045 | 2 | 0.000947155 | 0.00040489 | 0.019320529 |
+| Urate \|\| id:1055 | 24 | 0.087826794 | 0.037518233 | 0.01923682 |
+| Copper \|\| id:1073 | 2 | -0.144584218 | 0.072598111 | 0.04641826 |
+| Linoleic acid \(18:2n6\) \|\| id:1142 | 71 | -0.001742599 | 0.000831897 | 0.03619506 |
+| Alzheimer's disease \|\| id:297 | 14 | 1 | 0.034987262 | 1.13E-179 |
+| Alzheimer's disease \|\| id:298 | 20 | 0.976204968 | 0.035536413 | 3.95E-166 |
+| Total cholesterol \|\| id:301 | 80 | 0.25351367 | 0.119631925 | 0.034080845 |
+| Citrate \|\| id:341 | 6 | -1.155588186 | 0.580810157 | 0.046633441 |
+| Gamma-glutamylglutamine \|\| id:359 | 3 | -1.428605853 | 0.655467912 | 0.029293012 |
+| Myo-inositol \|\| id:417 | 2 | 3.542010231 | 1.229214569 | 0.003957582 |
+| HWESASXX\* \|\| id:526 | 2 | 0.75867659 | 0.276537321 | 0.006079042 |
+| Hip circumference \|\| id:54 | 68 | -0.225326736 | 0.085593619 | 0.008475455 |
+| Hip circumference \|\| id:55 | 68 | -0.213754307 | 0.087737736 | 0.014838905 |
+| Epiandrosterone sulfate \|\| id:627 | 2 | -0.410032612 | 0.201898025 | 0.042266188 |
+| X-14208--phenylalanylserine \|\| id:721 | 2 | -0.516874007 | 0.220875188 | 0.019277647 |
+| Fasting glucose \|\| id:757 | 9 | 0.413182734 | 0.210419428 | 0.049574763 |
+| LDL cholesterol \|\| id:781 | 36 | 0.36644429 | 0.148977031 | 0.013903893 |
+| Free cholesterol to esterified cholesterol ratio \|\| id:853 | 8 | 0.377747924 | 0.146586899 | 0.009967477 |
+| Glutamine \|\| id:860 | 5 | -0.192007767 | 0.07812681 | 0.013985232 |
+| Height \|\| id:89 | 321 | -0.115878195 | 0.037717592 | 0.002124456 |
 
