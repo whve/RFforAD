@@ -8,3 +8,7 @@ Despite tremendous advances in understanding the genetic architecture underlying
 
 We explore causal relationships between 298 GWASes across multiple phenotypes versus the International Genomics of Alzheimer's Project \(IGAP\). This unbiased approach greatly simplifies the implementation of MR by a simple lookup. For each phenotype, the association with AD was assessed using the inverse variance weighted \(IVW\), MR Egger, Weighted Median, and Weighted Mode methods. Here, we have applied the following inclusion criteria; genome-wide associated SNPs with a minimum p-value less than 5.0x10-8; SNPs or their proxies \(minimum R2 value = 0.8\) present in both the exposure and outcome \(AD\) datasets; R2 clumping threshold = 0.001.
 
+![](.gitbook/assets/tu-pian%20%284%29.png)
+
+A directed acyclic graph representing the basic IV analysis in MR framework. In an instrumental variable \(IV\) analysis, the genetic variant is an instrument related to exposure. IV needs to meet three assumptions: IV 1: instruments must be associated with the exposure; IV 2: instruments must affect the results only by exposure; IV 3: the instruments must not be associated with confounding factors.
+
