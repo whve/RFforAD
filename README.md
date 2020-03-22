@@ -1,5 +1,7 @@
 ---
-description: The AlzRisk Research Resource
+description: >-
+  Database Construction and Genetic Analysis of Environmental Risk Factors for
+  Alzheimer's Disease
 ---
 
 # Background
