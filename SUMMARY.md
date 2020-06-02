@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Background](README.md)
+* [Home](README.md)
 * [Summary](about.md)
 * [Key](methods.md)
 * [Top Results](the-top-results-list.md)
