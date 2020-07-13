@@ -8,6 +8,7 @@
 * [Calculation results of four methods](calculation-results-of-four-methods.md)
 * [Related references](related-references.md)
 * [NHGRI-EBI GWAS Catalog](nhgri-ebi-gwas-catalog/README.md)
+  * [Calculation results of IVW methods](nhgri-ebi-gwas-catalog/calculation-results-of-ivw-methods-1.md)
   * [references](nhgri-ebi-gwas-catalog/references.md)
 * [Download Data](download.md)
 * [Backed up](backed-up.md)
