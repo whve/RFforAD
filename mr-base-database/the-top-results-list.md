@@ -2,7 +2,7 @@
 description: Calculation results of IVW methods (p-values less than 0.05)
 ---
 
-# Top Results
+# Top Results\(sorted by p-value\)
 
 | exposure | nsnp | b | se | pval |
 | :--- | :--- | :--- | :--- | :--- |
