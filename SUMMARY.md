@@ -11,7 +11,6 @@
 * [NHGRI-EBI GWAS Catalog](nhgri-ebi-gwas-catalog/README.md)
   * [Calculation results of IVW methods](nhgri-ebi-gwas-catalog/calculation-results-of-ivw-methods.md)
   * [Top Results \(sorted by FDR\)](nhgri-ebi-gwas-catalog/nhgri-ebi-gwas-catalog.md)
-  * [Calculation results of IVW methods2](nhgri-ebi-gwas-catalog/calculation-results-of-ivw-methods-1.md)
   * [references](nhgri-ebi-gwas-catalog/references.md)
 * [Download Data](download.md)
 * [Backed up](backed-up.md)
