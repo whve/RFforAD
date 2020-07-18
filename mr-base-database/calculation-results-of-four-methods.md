@@ -8,10 +8,6 @@ description: >-
 
 
 
-  
-  
-
-
 | exposure | method | nsnp | b | se | pval |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Adiponectin \|\| id:1 | Inverse variance weighted | 11 | -0.182645561 | 0.134259093 | 0.173704577 |
@@ -280,14 +276,6 @@ description: >-
 | Inflammatory bowel disease \|\| id:294 | Weighted median | 121 | -0.032105576 | 0.027484588 | 0.242754279 |
 | Inflammatory bowel disease \|\| id:294 | Weighted mode | 121 | -0.034883488 | 0.034579363 | 0.315102779 |
 | Inflammatory bowel disease \|\| id:295 | Wald ratio | 1 | 0.01622497 | 0.064751029 | 0.802142934 |
-| Alzheimer's disease \|\| id:297 | Inverse variance weighted | 14 | 1 | 0.034987262 | 1.13E-179 |
-| Alzheimer's disease \|\| id:297 | MR Egger | 14 | 1 | 0.075921916 | 1.70E-08 |
-| Alzheimer's disease \|\| id:297 | Weighted median | 14 | 1 | 0.061013857 | 2.26E-60 |
-| Alzheimer's disease \|\| id:297 | Weighted mode | 14 | 1 | 0.086714856 | 3.36E-08 |
-| Alzheimer's disease \|\| id:298 | Inverse variance weighted | 20 | 0.976204968 | 0.035536413 | 3.95E-166 |
-| Alzheimer's disease \|\| id:298 | MR Egger | 20 | 0.983855977 | 0.113954215 | 8.14E-08 |
-| Alzheimer's disease \|\| id:298 | Weighted median | 20 | 0.958439076 | 0.059089256 | 3.63E-59 |
-| Alzheimer's disease \|\| id:298 | Weighted mode | 20 | 0.956497641 | 0.081697427 | 3.92E-10 |
 | HDL cholesterol \|\| id:299 | Inverse variance weighted | 85 | -0.273582464 | 0.227666541 | 0.229487302 |
 | HDL cholesterol \|\| id:299 | MR Egger | 85 | -0.325494368 | 0.425936235 | 0.446923674 |
 | HDL cholesterol \|\| id:299 | Weighted median | 85 | 0.052013356 | 0.074736154 | 0.486454029 |
